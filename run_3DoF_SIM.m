@@ -16,7 +16,7 @@ end
 
 
 %% Set Initial States + Controls 
-states_init = [0 5000 0 10 0 0]; 
+states_init = [0 5000 0 40 0 0]; 
 deltaE = -10; 
 
 
